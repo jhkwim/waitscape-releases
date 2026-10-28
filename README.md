@@ -5,6 +5,8 @@ This repository only hosts **Waitscape** installers and update files.
 
 👉 **[최신 버전 받기 / Latest release](https://github.com/jhkwim/waitscape-releases/releases/latest)**
 
+소스 코드·이슈·기여 / Source code, issues and contributing: **[jhkwim/waitscape](https://github.com/jhkwim/waitscape)**
+
 | | 파일 |
 |---|---|
 | macOS 13+ (Apple 칩·Intel) | `Waitscape_x.y.z_universal.dmg` |
